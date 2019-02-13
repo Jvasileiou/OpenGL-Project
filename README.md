@@ -15,6 +15,8 @@ whose dimensions can not be changed.
 
 ##### Use : Hodgeman-Sutherland Algorithm
 
+##### WARNING : The code is really unreadable. The project was created under the pressure and there was limited time!
+
 ### RUN only on LINUX (Ubuntu)
   $ sudo apt-get update   
   $ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
