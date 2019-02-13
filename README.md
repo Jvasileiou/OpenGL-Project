@@ -16,8 +16,7 @@ whose dimensions can not be changed.
 ##### Use : Hodgeman-Sutherland Algorithm
 
 ### RUN only on LINUX (Ubuntu)
-  $ sudo apt-get update
-  $ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
+  $ sudo apt-get update                                                                                                                     $ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
   ● MakeFile:       make PROG=xxxx    
    That xxxx is the name of the file will be compiled.
